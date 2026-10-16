@@ -1,0 +1,9 @@
+pystac-client
+planetary-computer
+odc-stac
+rasterio
+xarray
+pyproj
+h3>=4
+pandas
+numpy

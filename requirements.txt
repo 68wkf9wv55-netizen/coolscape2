@@ -1,0 +1,10 @@
+streamlit>=1.40
+altair
+pandas
+numpy
+pydeck
+requests
+h3>=4
+pythermalcomfort>=2.10
+metpy
+pulp==2.9.0

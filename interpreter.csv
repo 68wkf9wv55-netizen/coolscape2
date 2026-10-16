@@ -1,0 +1,319 @@
+@type	@id	@lat	@lon	amenity	social_facility	name
+node	1304981007	36.8566029	30.7468263	hospital		Medical Park
+node	1711064004	36.8871895	30.7049269	drinking_water		
+node	2300063978	36.8871110	30.7050976	drinking_water		
+node	2301481146	36.8843232	30.7056528	drinking_water		Hüseyin Ak Çesmesi
+node	3405088905	36.9590158	30.6232398	school		Bahçeşehir Koleji
+node	3722795798	36.8708735	30.6278078	clinic		125. Yıl Sağlık Ocağı
+node	3957153183	36.9644596	30.7269727	drinking_water		
+node	4101057993	36.8764193	30.6451845	clinic		Mavi Yaprak Aile Danışma Merkezi
+node	4248199796	36.8696158	30.7207565	clinic		Özel Jineklinik Doğa Polikliniği
+node	4427680457	36.8828947	30.6677545	drinking_water		
+node	4574896490	36.9688285	30.7290226	school		Varsak Şelale İlköğretim okulu
+node	4620604029	36.8998153	30.6823825	clinic		25 Nolu İsmet Yüce Aile Sağlığı Merkezi
+node	4887508622	36.8759703	30.7271462	clinic		Hiperox
+node	4897709222	36.9230518	30.6692654	clinic		Sağlık ocağı
+node	5983220345	36.8716086	30.6327312	clinic		Konyaaltı Altınkum Aile Sağlığı Merkezi
+node	6022471820	36.8846329	30.6721812	drinking_water		
+node	6022479324	36.8825212	30.6632611	drinking_water		
+node	6049573496	36.8839937	30.6776764	drinking_water		
+node	6089508898	36.9164750	30.6782940	clinic		Tevfik Fikret Aile Sağlığı Merkezi
+node	6139926566	36.8787111	30.6653704	drinking_water		
+node	6139926819	36.8793556	30.6668378	drinking_water		
+node	6165371394	36.8810531	30.7353813	clinic		Meydankavağı Aile Sağlığı Merkezi
+node	6178454100	36.9180356	30.7086622	clinic		Kepez 34 Nolu Aile Sağlığı Merkezi
+node	6188159519	36.9143906	30.7245353	school		Mareşal Fevzi Çakmak Ortaokulu
+node	6195275236	36.9128274	30.6807041	school		Hüseyin Avni Çöllü İmam Hatip Ortaokulu
+node	6203411544	36.8965939	30.6772206	clinic		Soğuksu Aile Sağlığı Merkezi
+node	6228006761	36.9301841	30.7315991	clinic		Kepez Sütçüler Aile Sağlığı Merkezi
+node	6387483711	36.8768654	30.6561213	kindergarten		
+node	6387499591	36.8793067	30.6549354	clinic		
+node	6423825877	36.9182170	30.6934529	hospital		Dünya Göz
+node	6449272500	36.9391539	30.7234414	clinic		Zehra Koz Aile Sağlığı Merkezi
+node	6511690827	36.8829399	30.7037077	drinking_water		
+node	6511690828	36.8803539	30.7064059	drinking_water		
+node	6636791585	36.8562303	30.6259661	kindergarten		İlk Çizgi Güzel Sanatlar Gündüz Bakımevi
+node	6869776486	36.8502970	30.7577894	school		final Özel Akademi Lisesi
+node	8272931188	36.8987134	30.6610594	clinic		Gastroenteroloji Polikliniği
+node	8316813731	36.8876129	30.6240283	school		Konyaaltı Anadolu Lisesi
+node	8836376332	36.8545795	30.6256934	drinking_water		
+node	8878549151	36.9032337	30.6871827	clinic		Sedir Aile Sağlığı Merkezi
+node	8878549158	36.9069604	30.6863729	hospital		Çallı Meydan Tıp Merkezi
+node	9907447430	36.8810950	30.7079192	drinking_water		
+node	9907447431	36.8785599	30.7065739	drinking_water		
+node	9934964176	36.8910100	30.6938444	drinking_water		
+node	9937003754	36.8961880	30.6740330	clinic		Uzm. Dr. Mihriban ÜNAY Çocuk ve Genç Psikiyatristi | Psikoterapist
+node	10221699017	36.9103224	30.6463341	clinic		Selahattin Topçu Aile Sağlığı Merkezi
+node	10223512046	36.8555602	30.6243566	drinking_water		
+node	10293031296	36.8724606	30.6450499	kindergarten		Nisantasi kids
+node	11167384004	36.8856363	30.6224530	school		İstek Okulları
+node	11293367682	36.8566024	30.7851577	kindergarten		
+node	11601268478	36.9542406	30.6305685	drinking_water		
+node	11811931087	36.9493437	30.6278630	hospital		Aşır Aksu Ek Hizmet Binası
+node	11941766719	36.9202092	30.6669785	drinking_water		
+node	12176953104	36.8600606	30.7989649	hospital		Eye Surgery Antalya
+node	12176953105	36.8591124	30.7974950	hospital		Eye Surgery Antalya
+node	12241874986	36.8895947	30.7380816	school		Renk okulları
+node	12241935472	36.8805697	30.7390295	school		Güneş Kokeji
+node	12241937359	36.8809547	30.7388271	school		On adım eğitim bilimleri
+node	12255754385	36.8860010	30.7317093	school		Antalya Akant Okulları
+node	12311232138	36.8545768	30.7820094	drinking_water		
+node	12311232139	36.8547236	30.7822431	drinking_water		
+node	12397948201	36.8922666	30.6915823	clinic		Muratpaşa Aile Sağlığı Merkezi
+node	12528840006	36.8565213	30.6230023	drinking_water		
+node	13100391314	36.8795881	30.7246460	kindergarten		Özel Renkli Düşler Akademisi Anaokulu
+node	13307127620	36.8592558	30.7888781	hospital		cinsel saglık hattı merkezi
+node	13904136202	36.8611795	30.6325339	school		Halit Uluç İmam Hatip Ortaokulu
+node	13950644801	36.8823685	30.6726783	drinking_water		
+node	13960310001	36.8621490	30.6295823	school		Yönder Okulları Konyaaltı
+node	14108029973	36.8880417	30.6764575	drinking_water		
+way	206502906	36.8858327	30.7386182	school		Envar Eğitim Kurumları
+way	206502977	36.8854618	30.7399663	hospital		MedStar Topçular Hastanesi
+way	221701822	36.9227683	30.6773908	school		Alaeddin Keykubat Ortaokulu
+way	299684058	36.8840215	30.7102104	school		Antalya Lisesi
+way	303574717	36.9308211	30.7413103	school		Şehit Kahraman Çelikbaş Ortaokulu
+way	321793912	36.8930595	30.6209731	hospital		Uncalı Meydan Hastanesi
+way	321800489	36.9074075	30.6443503	school		Toros Mesleki ve Teknik Anadolu Lisesi
+way	321800490	36.9079309	30.6449540	school		Hüsniye Özdilek Mesleki ve Teknik Anadolu Lisesi
+way	321804048	36.8901746	30.6778940	hospital		Antalya Eğitim Ve Araştırma Hastanesi
+way	321813595	36.8958534	30.7128344	school		75. Yıl Cumhuriyet Anadolu Lisesi
+way	354880338	36.9142545	30.6911761	hospital		Özel Ofm Hastanesi
+way	368146759	36.9122668	30.6984497	school		Atatürk Mesleki ve Teknik Anadolu Lisesi
+way	368148972	36.8951067	30.6749196	school		Muratpaşa Türk Telekom Anadolu Lisesi
+way	368148973	36.8951476	30.6759361	school		Muratpaşa Anadolu Lisesi
+way	368155247	36.8873395	30.6801560	school		Meryem Mustafa Ege İlköğretim Okulu
+way	368282383	36.8982434	30.6918134	hospital		Antalya Atatürk Devlet Hastanesi
+way	368282494	36.8976078	30.6924522	school		Mehmet Akif Ersoy İmam Hatip Ortaokulu
+way	368404977	36.8974808	30.6617434	hospital		Akdeniz Üniversitesi Hastanesi
+way	368404984	36.8928317	30.6247405	school		
+way	368404986	36.8927577	30.6288817	school		Leyla Kahraman Sevim Ertenü Ortaokulu
+way	368408060	36.8709376	30.6342607	hospital		Özel Olimpos Hastanesi
+way	368449790	36.8810708	30.6452613	school		Akdeniz Anadolu Lisesi
+way	368449794	36.8641634	30.6254415	school		Gazi Mustafa Kemal İlkokulu
+way	368453329	36.8870711	30.7189547	hospital		Özel Antalya Anadolu Hastanesi
+way	368454342	36.8882047	30.7331264	hospital		Özel Rich Hastanesi
+way	368454343	36.8880580	30.7322689	school		Metin-Nuran Çakalıklı Anadolu Lisesi
+way	368463411	36.8628732	30.7307663	hospital		"Özel Yaşam Hastanesi, Antalya (Life Hospital)"
+way	368652503	36.9518550	30.7297491	school		
+way	393902151	36.9062119	30.6990645	clinic		Sağlık Ocağı
+way	426562915	36.9144969	30.7029143	school		Perihan Esat Aral Ortaokulu
+way	426731459	36.8863268	30.7344193	school		
+way	426731460	36.8866009	30.7353981	school		
+way	426731462	36.8909340	30.7236998	school		Nadire Konuk Ve Ali Oğuz Konuk Ortaokulu
+way	426731463	36.8906606	30.7225475	school		Aldemir Atilla Konuk Anadolu Lisesi
+way	426752879	36.8567477	30.7441772	school		Kocademir Ortaokulu
+way	426766031	36.8609932	30.7417705	school		Otistik Çocuklar Eğitim Merkezi
+way	426766032	36.8599862	30.7410185	school		Ramazan Savaş İlkokulu
+way	426766035	36.8584819	30.7389037	clinic		Memorial Lara Tıp Merkezi
+way	428388165	36.8627222	30.7874209	school		
+way	428388176	36.8600161	30.7718585	school		İrfan İlk  ortaokulu
+way	428388195	36.9060113	30.6420036	school		
+way	428392897	36.9451934	30.6472910	school		Süleyman Demirel Ortaokulu
+way	428392899	36.9287616	30.7097828	school		Kepez İşitme Engelliler İlkokulu
+way	428392900	36.9172038	30.7330698	school		Demirgül Ortaokulu
+way	431519162	36.8873974	30.6912277	school		Ahmet Bileydi İlkokulu
+way	431891700	36.9434145	30.6481411	clinic		Pakize - Yahya Erkun Aile Sağlık Merkezi
+way	441771634	36.8529703	30.7573833	clinic		Ticaret Borsası Semt Polikliniği
+way	441771636	36.8533674	30.7596994	school		Antalya Ticaret Borsası Mesleki ve Teknik Anadolu Lisesi
+way	441771639	36.8539823	30.7595276	school		Vali Hüsnü Tuğlu İlkokulu
+way	441771643	36.8544415	30.7563946	clinic		Gastrocer Cerahi Merkezi
+way	461540970	36.9083242	30.7102820	clinic		Vali Saim Çotur 3. Aile Sağlığı Merkezi
+way	465171662	36.8686327	30.6278882	school		Şehit Teğmen Ayfer Gök Anaokulu
+way	465171689	36.8774365	30.6401954	school		Dr Cahit Ünver ilkokulu - ortaokulu
+way	467392228	36.8703122	30.6504444	school		Z. Marsel-Z. Denizhan Öner İlkokulu
+way	467437191	36.8763211	30.6531273	school		Özel Şifa Anadolu SML
+way	467442220	36.8937108	30.6826545	school		Ertuğrul Gazi İlkokulu
+way	467442221	36.8932020	30.6828121	school		Fatih Ortaokulu
+way	469035855	36.9202270	30.7328156	school		Şehit Ömer Dikmen Çok Programlı Anadolu Lisesi
+way	476076007	36.9506395	30.7169118	school		Şehit Serhat Genç İlkokulu
+way	510095566	36.9383418	30.7386759	school		
+way	544139400	36.9061702	30.7258712	school		Mevlana İmam Hatip Ortaokulu
+way	631851563	36.9318885	30.7270359	hospital		Kepez Devlet Hastanesi
+way	633932663	36.8710691	30.6286652	kindergarten		Küçük Şeyler
+way	633983547	36.8848197	30.6206393	school		
+way	634355542	36.8840092	30.6501440	school		Abdurrahman Neriman Bileydi Ortaokulu
+way	640913820	36.9045338	30.6609959	school		Sefa Akın Ortaokulu
+way	642915403	36.8559927	30.7576081	school		Özel Başar Eğitim Kurumları
+way	647402246	36.9335229	30.7484507	school		
+way	648247937	36.8761837	30.7138256	school		Mehmet Kesikçi İlkokulu
+way	648247990	36.8713528	30.7203449	school		
+way	648491909	36.9253830	30.7484324	school		Beşkonak İlkokulu
+way	648491950	36.9137942	30.7800019	school		TED Koleji
+way	648557600	36.8785951	30.7265147	school		Şehit Muhammet Oğuz Kılınç Anadolu Imam Hatip Lisesi
+way	649256787	36.9137410	30.6631924	school		Kepez İmam Hatip Ortaokulu
+way	649263083	36.9320441	30.7291271	school		Nebi Güney İmam Hatip Ortaokulu
+way	649263085	36.9376307	30.7194290	school		Metin Çiviler Anadolu Lisesi
+way	649263086	36.9220482	30.6965317	school		Prof.Dr. Raşit Küçük Anadolu İmam Hatip Lisesi
+way	649263087	36.9225717	30.6966085	school		Şehit Ali Daniyar Ortaokulu
+way	651035989	36.9121804	30.6398381	school		Yıldırım Beyazıd İmam Hatip Ortaokulu
+way	651067873	36.9121267	30.6440250	school		Turgut Reis Ortaokulu
+way	651086093	36.9118387	30.6484653	school		Ahatlı İlkokulu
+way	651590484	36.9164918	30.6446247	school		Kepez Özel Eğitim Uygulama Merkezi H.Kademe
+way	651590502	36.9379315	30.6650926	school		Şehit Muhittin Talha Çalışkan Anadolu Lisesi
+way	651590506	36.9242805	30.6859373	school		Prof. İhsan Koz İlkokulu
+way	651590513	36.9177149	30.6934749	hospital		Memorial Antalya Hastanesi
+way	651600750	36.9181959	30.7245060	school		İsmail Hakkı Kaya Ortaokulu
+way	651698535	36.9433844	30.7441121	school		Baraj Ortaokulu
+way	651861634	36.9260716	30.7205815	school		Şerife Tufan İlkokulu
+way	651861635	36.9258495	30.7210438	school		Mehmet Akif Ersoy Anaokulu
+way	652166155	36.9090414	30.7001497	school		Muratpaşa Ortaokulu
+way	652166187	36.9086251	30.7077217	school		Konuksever İlkokulu
+way	652578152	36.9278683	30.7078160	school		Gülgün Nihat Ömür Ortaokulu
+way	652578153	36.9269854	30.7079046	school		Gülgün Nihat Ömür İlkokulu
+way	652578158	36.9563586	30.7264693	school		
+way	652738926	36.9001485	30.6742108	kindergarten		Çocuk Çevresi Kreş
+way	653373224	36.9157963	30.7230542	school		Fatma Nur Çelik İmam Hatip Ortaokulu
+way	653373228	36.9143800	30.7249033	school		Mareşal Fevzi Çakmak İlkokulu
+way	654571004	36.9168590	30.6733062	school		Şifa Koleji
+way	655561095	36.9040064	30.6574734	school		Kültür İlkokulu
+way	655561120	36.9052298	30.6604142	school		Antalya Bilim Ve Sanat Merkezi
+way	655609683	36.9078017	30.6568969	school		Kepez Mahmut Celalettin Ökten Anadolu İmam Hatip Lisesi
+way	657506646	36.8883069	30.6841313	school		Gazi Anadolu Lisesi
+way	657506666	36.8854324	30.6867507	school		Barbaros Ortaokulu
+way	657531972	36.8753557	30.7156510	school		Yavuz Selim Anadolu Lisesi
+way	657609788	36.8776940	30.7162719	school		Hacı Malike Mehmet Bileydi Anadolu Lisesi
+way	657782274	36.8817127	30.7157685	school		Hacı Hafize Hakkı Saygan İlkokulu
+way	657811490	36.8559916	30.7909245	school		Saime Salih Konca Anadolu Lisesi
+way	657811575	36.8588687	30.7939378	hospital		Özel Lara Anadolu Hastanesi
+way	657857795	36.8548620	30.7964899	hospital		Land of Smile
+way	658051721	36.9257405	30.7367006	school		80. Yıl Cumhuriyet İlkokulu
+way	658051732	36.9249688	30.7118282	school		Hızır Reis Mesleki ve Teknik Anadolu Lisesi
+way	658051763	36.9014997	30.7338364	school		İnönü Ortaokulu
+way	658096353	36.8789560	30.7132492	school		Başöğretmen Atatürk Ortaokulu
+way	658142323	36.8859295	30.7332554	school		Akant Okulları
+way	658142370	36.8856990	30.7275651	school		Hacı Dudu Mehmet Gebizli Kız Anadolu İmam Hatip Lisesi
+way	658142420	36.8811345	30.7259006	school		Mustafa Asım Cula Ortaokulu
+way	658177457	36.8857400	30.7224521	school		Antalya Barosu Mesleki ve Teknik Anadolu Lisesi
+way	658177480	36.8722000	30.7294668	school		Hanım - Ömer Çağıran İlkokulu
+way	658182188	36.8851633	30.7158210	school		İstiklal İlkokulu
+way	658182198	36.8892795	30.7218542	clinic		Meydan Tıp Merkezi
+way	658373765	36.8746897	30.7299910	school		Melahat Faraçlar İlkokulu/Ortaokulu
+way	658465396	36.8918352	30.7108839	school		Hakkı Tatoğlu İlkokulu
+way	658657221	36.8826840	30.7295765	school		Zihinsel Yetersiz Çocukları Yetiştirme Ve Koruma Vakfı
+way	658726939	36.8899566	30.7114511	school		Kamile Çömlekçioğlu Ortaokulu
+way	659771273	36.9064811	30.7271308	kindergarten		Vilayetler Hizmet Birliği Anaokulu
+way	659776096	36.9021697	30.7178871	school		Dilsad Refizade Ilkokulu
+way	659776673	36.9031058	30.7104682	school		Vali Saim Çotur Ortaokulu
+way	659776676	36.9047427	30.7074933	school		Necati Fatma Dölen İlkokulu
+way	659776677	36.9047875	30.7067041	school		Necati Dölen Mesleki ve Teknik Anadolu Lisesi
+way	659849318	36.8992970	30.7245580	hospital		ASV Yaşam Hastanesi
+way	659864441	36.8993639	30.7096960	school		Hamza Taş İmam Hatip Ortaokulu
+way	659864448	36.8994549	30.7089311	clinic		Özel Orbit Tıp Merkezi
+way	659893759	36.9017386	30.6987401	hospital		Opera Yaşam Hastanesi
+way	659893784	36.9038793	30.6969942	school		Ahmet Yesevi İlkokulu
+way	660102007	36.9078697	30.7206155	school		Kazım Şanöz İlkokulu
+way	660163042	36.8988564	30.6770045	school		Hacı Hafize Saygan 2 İlkokulu
+way	660437601	36.8941274	30.6848599	hospital		Medstar Antalya Hastanesi
+way	660463189	36.8954617	30.6900100	school		Namık Kemal Ortaokulu
+way	660963183	36.9061295	30.7220417	school		Antalya Anadolu İmam Hatip Lisesi
+way	660984662	36.9196794	30.7328446	clinic		7 Nolu Hayri Haseki Aile Sağlığı Merkezi
+way	661117836	36.9185980	30.7244887	school		İsmail Hakkı Kaya İlkokulu
+way	661163451	36.9147889	30.6812937	school		Şehit Çetin Çakmak Anadolu İmam Hatip Lisesi
+way	661163452	36.9142538	30.6816679	school		Çağlayan Anadolu Lisesi
+way	661163474	36.9123959	30.6833079	school		Mustafa Adıyaman Ortaokulu
+way	661379661	36.8908257	30.6665080	school		Mecdude Başakıncı Ortaokulu
+way	661703575	36.9121482	30.6809499	school		Mehmet Kemal Dedeman İlkokulu
+way	661703577	36.9127316	30.6805771	school		Hüseyin Avni Çöllü Ortaokulu
+way	662435100	36.9081084	30.6903522	school		Naciye Havva Manavuşak Ortaokulu
+way	662605238	36.9006529	30.6857848	school		Güvenlik İlkokulu
+way	662641792	36.8958221	30.6718454	school		Emel Sevgi Taner İlkokulu
+way	662648635	36.9026522	30.6796531	school		Dr. Galip Kahraman Ortaokul
+way	663077654	36.8921642	30.7339373	school		Hamidiye İmam Hatip Ortaokulu
+way	663465474	36.8883647	30.6853299	school		Fatmagül Özpınar İlkokulu
+way	663707505	36.8930907	30.6908365	school		Altındağ İlkokulu
+way	663905134	36.8946116	30.7024922	school		Cumhuriyet İlkokulu
+way	663937185	36.9506536	30.7252639	school		
+way	664114348	36.9409723	30.7092004	school		İrenogullari İlkokulu
+way	664120028	36.9358441	30.7307833	school		İsmet İnönü Mesleki ve Teknik Anadolu Lisesi
+way	664120043	36.9411766	30.7131403	school		
+way	664120045	36.9368969	30.7048286	school		Şahinevler ilkokulu
+way	664137521	36.9417635	30.7128660	kindergarten		Makbule Mehmet Karabacak Anaokulu
+way	664137557	36.9341598	30.7077672	clinic		Bolat Yıldırım Aile Sağlığı Merkezi
+way	664325487	36.9293701	30.7047116	school		Aslanlar İlkokulu
+way	664335209	36.9396746	30.7005732	school		
+way	664335210	36.9402570	30.7005112	school		
+way	664854006	36.9442977	30.7086997	hospital		Özel Akdeniz Şifa Hastanesi
+way	664878301	36.9147982	30.7111589	school		General Şadi Çetinkaya İlkokulu ve Ortaokulu
+way	664878302	36.9140667	30.7113411	school		Nazime Baki Saatçioğlu Ticaret Mesleki ve Teknik Anadolu Lisesi
+way	664892174	36.9150885	30.6932189	school		Cengiz Topel İlkokulu
+way	665143634	36.9178330	30.6751682	hospital		Özel Vitale Kadın ve Doğum Hastanesi
+way	665143648	36.9259093	30.6861269	clinic		24 Nolu Barış Aile Sağlığı Merkezi
+way	665143661	36.9196452	30.6900888	school		Hüseyin Ak İlkokulu
+way	665143662	36.9197456	30.6894130	school		Atatürk Anadolu Lisesi
+way	665149252	36.9191477	30.6903286	kindergarten		Zafer Anaokulu
+way	665149258	36.9233058	30.6966808	clinic		70. Yıl Cumhuriyet Merkez Aile Sağlığı Merkezi
+way	665151669	36.9218941	30.7113882	school		Mobil İlkokulu
+way	665648413	36.9283623	30.6706362	school		İbrahim Doğaner İlkokulu
+way	666249439	36.9354973	30.6778708	school		Şehit İbrahim Barış Yurtseven İmam Hatip Ortaokulu
+way	666255933	36.9296539	30.6888388	school		Halil Akyüz Ortaokulu
+way	666258637	36.9284113	30.6943851	school		Kepez Şehit Ali Yılmaz İlkokulu
+way	666369975	36.9045613	30.6925848	school		
+way	666369978	36.9048852	30.6903349	school		Yunus Emre
+way	666626114	36.9079227	30.6764503	school		
+way	667627194	36.9154581	30.6574019	school		Ayşe - Ahmet Atmaca Ortaokulu
+way	667627208	36.9109124	30.6599473	school		Fikret Haluk Saraçoğlu İlkokulu
+way	668123167	36.9341290	30.6292263	school		Ünsal Ortaokulu
+way	668248724	36.9218232	30.7105269	kindergarten		Hamdullah Suphi Tanrıöver Anaokulu
+way	668664698	36.9184931	30.6712892	school		Kaan Turan İlkokulu
+way	668838209	36.8998726	30.7253514	school		Gültekin İlkokulu
+way	669435954	36.8564068	30.7653678	school		Bilfen Antalya İlkokulu ve Ortaokulu
+way	669435955	36.8564706	30.7648936	school		Bilfen Antalya Fen Lisesi ve Anadolu Lisesi
+way	670978737	36.9342980	30.6628406	school		100. Yıl Ortaokulu
+way	672724945	36.9426457	30.7227691	school		Ahmet-Coşkun Bulut İlköğretim okulu
+way	675096831	36.8599552	30.6246388	school		Doğa Koleji
+way	675365705	36.9272753	30.7775411	clinic		Altınova Aile Sağlığı Merkezi
+way	676185460	36.9305664	30.7804260	school		Ayten Çağıran Çok Programlı Anadolu Lisesi
+way	684324583	36.9260991	30.6682812	kindergarten		Şehit Binbaşı Turgut Cengiz Toytunç Anaokulu
+way	684349190	36.9280495	30.6673384	school		Mimar Sinan İlkokulu
+way	722140125	36.8606022	30.7802070	school		Anadolu Lisesi
+way	744760155	36.8668050	30.7853391	school		
+way	809175098	36.8909848	30.6828539	school		
+way	852073850	36.9224086	30.7211329	school		
+way	871924983	36.9379315	30.6650926	school		Şehit Muhittin Talha Çalışkan Anadolu Lisesi
+way	887584785	36.9458914	30.6991441	school		Kütükçü Mesleki Teknik ve Anadolu Lisesi
+way	955437020	36.8894144	30.6365634	school		
+way	1039058086	36.8529383	30.7691043	school		Bahçeşehir Koleji Lara Kampüsü
+way	1052057695	36.8993165	30.6690130	school		Akant Koleji
+way	1094368144	36.9136186	30.6495953	school		
+way	1159170683	36.9394704	30.6334988	school		
+way	1185076388	36.8853662	30.6223383	school		İSTEK Antalya Okulları
+way	1185103787	36.8929426	30.6265541	hospital		
+way	1185677148	36.8954613	30.7246148	hospital		Atatürk Devlet Hastanesi Semt Polikliniği
+way	1185849119	36.9040218	30.6474324	school		
+way	1201905619	36.9158459	30.6475730	hospital		
+way	1201905620	36.9115077	30.6492283	school		
+way	1201905621	36.9156174	30.6526040	kindergarten		
+way	1285761868	36.8876651	30.7329334	school		Özüm Çocuk ve Spor Akademi
+way	1302089690	36.9533887	30.6651853	hospital		Antalya Şehir Hastanesi
+way	1311347149	36.9079678	30.6714767	school		Girne Koleji Antalya Kampüsü
+way	1322371127	36.8887552	30.7364410	school		Gökkuşağı Koleji
+way	1322371129	36.8888435	30.7369829	school		Dore Okulları
+way	1322371130	36.8889335	30.7373616	school		Özel Antalya Teknoloji Koleji
+way	1324405639	36.8856929	30.7464122	school		Antalya Koleji Lara Kampusu
+way	1334156480	36.9212090	30.7041866	school		Özel Eğitim Meslek Okulu
+way	1334322474	36.9211335	30.7033385	school		Bolat Yıldırım Anaokulu
+way	1334322475	36.9208980	30.7031719	school		Bolat Yıldırım İlkokulu
+way	1334668763	36.9241297	30.7047131	school		Antalya Ticaret ve Sanayi Odası Güzel Sanatlar Lisesi
+way	1334668773	36.9251181	30.7049183	school		Nevzat Saygan-Levent Saygan Anadolu Lisesi
+way	1334668781	36.9251185	30.7058757	school		Sunay-Gönül-Türkan-Saygan Kardeşler-5 Anaokulu
+way	1334668782	36.9248931	30.7067481	school		Karatay Anadolu Lisesi
+way	1334668795	36.9241567	30.7056578	school		Kepez Mesleki ve Teknik Anadolu Lisesi
+way	1345706768	36.8817580	30.7067884	school		Dumlupınar Ortaokulu
+way	1345821171	36.8858247	30.6922881	school		Antalya Mesleki ve Teknik Anadolu Lisesi
+way	1348464976	36.9026422	30.6790662	kindergarten		
+way	1361483583	36.8790191	30.7195248	school		Maya Koleji Antalya Şubesi
+way	1375576554	36.9486448	30.7086829	school		
+way	1385179218	36.9415627	30.6765828	kindergarten		Fatih Selek Ali Işıkhan Anaokulu
+way	1385179220	36.9408874	30.6764352	school		Ramazan-Ali Uyaroğlu İlkokulu
+way	1385179221	36.9400417	30.6767062	school		Emine Ali Uyaroğlu Ortaokulu
+way	1385179222	36.9366646	30.6653785	kindergarten		Çamlıbel Anaokulu
+way	1385179223	36.9365049	30.6656970	school		Çamlıbel Halk Eğitimi Merkezi
+way	1385179224	36.9382634	30.6647454	school		Göçerler İlkokulu
+way	1385179225	36.9431147	30.6631006	school		Esentepe İlkokulu
+way	1385179226	36.9427619	30.6564696	school		Göçerler Ortaokulu ve Şehit Cemal Yalın İmam Hatip Ortaokulu
+way	1385179227	36.9225688	30.6976528	school		Prof.Dr. Raşit Küçük Anadolu İmam Hatip Lisesi
+way	1456753053	36.9291135	30.6671313	kindergarten		Nasreddin Hoca Kreş ve Gündüz Bakım Evi
+way	1553010473	36.9013268	30.7272584	school		Antalya Anadolu Lisesi
+way	1562511420	36.9100700	30.6520705	school		
+way	1566862215	36.9105208	30.6465349	hospital		
+relation	9223144	36.8998307	30.6594062	clinic		
